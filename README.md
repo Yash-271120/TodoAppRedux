@@ -1,6 +1,6 @@
 # A Todo App made using react-redux
 
-# To the app
+# To run the app
 
 1. clone the repo to your local machine
 2. cd into TodoAppRedux
